@@ -1,7 +1,12 @@
-# README
+# PROYECTO BLOG PERSONAL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta página debe: 
+- Permitir la creación, edición, actualización y eliminación de artículo
+- Debe mostrar artículos anteriores ordenados por fecha
+- Debe contar con un espacio para ver los datos del autor. 
+- Debe estar escrita en Ruby on Rails* Debe tener sistema de usuarios (login / logout)
+- Debe ser presentada en Heroku enviando el repositorio en gitlab
+-  Debe estar centrada en el usuario
 
 Things you may want to cover:
 
